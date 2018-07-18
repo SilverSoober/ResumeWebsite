@@ -1,0 +1,62 @@
+/*
+    This is my CSS page that will structure the webpage.
+*/
+body {
+    background-color: white;
+
+}
+
+#theTop {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.bounds {
+    width: 80%;
+    margin: auto;
+}
+
+.clr {
+    clear:both;
+}
+
+nav {
+    
+}
+
+.topDescription{
+    color: green;
+    font-size: 18;
+}
+
+.topDescription h1 {
+    color: black;
+}
+
+.imgOfMe {
+    float: left;
+    width: 150px;
+    height: 225px;
+}
+
+.moreBoarders {
+    float: left;
+    width: 90%;
+    padding: 4px;
+    margin: auto;
+    border: 2px blue dashed;
+    border-radius: 25px;
+}
+
+.whoIAm {
+    position: relative;
+    float: left;
+    height: 33.3%;
+    width: 33.3%;
+    border: 3px red solid;
+    padding: 3px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    margin: 2px;
+}
